@@ -2,6 +2,9 @@ from votos.Voto import Voto
 
 
 class VotosController:
+    """
+    Faz alterações no modelo "Voto".
+    """
 
     voto = None
 
