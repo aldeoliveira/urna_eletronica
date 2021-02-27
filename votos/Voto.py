@@ -3,6 +3,9 @@ from database.QueryBuilder import QueryBuilder
 
 
 class Voto:
+    """
+    Modelo que armazena o voto.
+    """
 
     querybuilder = None
     candidaturas = None
